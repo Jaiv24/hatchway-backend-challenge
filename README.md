@@ -22,4 +22,4 @@ Nodemon 2.0.7
 - For example you main insert http://localhost:5001/api/posts/history,tech/likes/desc to get a result.
 Or simply http://localhost:5001/api/posts/history,tech
 - Run `npm test` to see the passing tests in the terminal
-- I used `Thunder Client` Visual Studio extention to verify all of my solutions.
+- I used `Thunder Client` (Visual Studio extention) to verify all of my solutions.
