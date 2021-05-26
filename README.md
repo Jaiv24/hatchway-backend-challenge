@@ -1,12 +1,12 @@
-# Hatchway-Backend-Challenge
+# Hatchway-Backend-Challenge:
   Backend Challenge at Hatchways.
   
-### Summary
+### Summary:
  - This application contains the results of a backend-challenge at Hatchways.
  - The challenge is entirely focused on the backend and uses an external API, as a result I have not used my own database.
  - tests are found in test/test-page.js
 
-### Requirements
+### Requirements:
 
 ```
 Node 14.16.0
